@@ -2,6 +2,7 @@ baseurl                 = "/"               # Your domain name. Must end with "/
 languageCode            = "en-us"
 title                   = "Avery"
 theme                   = "hugo-theme-sam"
+publishDir              = "docs"
 # googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
 
 [params]
